@@ -38,3 +38,5 @@ for url in urls:
 t2 = time.time() # 结束时间
 print('一般方法，总共耗时：%s' % (t2 - t1))
 print('#' * 50)
+
+iphone
